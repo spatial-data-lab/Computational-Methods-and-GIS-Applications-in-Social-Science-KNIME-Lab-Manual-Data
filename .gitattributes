@@ -1,0 +1,15 @@
+GX filter=lfs diff=lfs merge=lfs -text
+SimuCity filter=lfs diff=lfs merge=lfs -text
+BatonRouge filter=lfs diff=lfs merge=lfs -text
+BRMSA filter=lfs diff=lfs merge=lfs -text
+Florida filter=lfs diff=lfs merge=lfs -text
+Louisiana filter=lfs diff=lfs merge=lfs -text
+Shanghai filter=lfs diff=lfs merge=lfs -text
+Yunnan filter=lfs diff=lfs merge=lfs -text
+Beijing filter=lfs diff=lfs merge=lfs -text
+Chicago filter=lfs diff=lfs merge=lfs -text
+Jiangsu filter=lfs diff=lfs merge=lfs -text
+Columbus filter=lfs diff=lfs merge=lfs -text
+Xiantao filter=lfs diff=lfs merge=lfs -text
+Chicago/ZoneEffect/block.zip filter=lfs diff=lfs merge=lfs -text
+Chicago/ZoneEffect/residential.zip filter=lfs diff=lfs merge=lfs -text
