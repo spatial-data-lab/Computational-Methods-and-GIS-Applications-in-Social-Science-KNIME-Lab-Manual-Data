@@ -10,4 +10,4 @@ https://github.com/spatial-data-lab/Computational-Methods-and-GIS-Applications-i
 
 Other data, get the link by navigating to the file and right-clicking on the `Raw` button and selecting `Copy Link Address`:
 
-![](image.png)
+![](https://github.com/spatial-data-lab/Computational-Methods-and-GIS-Applications-in-Social-Science-KNIME-Lab-Manual-Data/raw/main/image.png)
